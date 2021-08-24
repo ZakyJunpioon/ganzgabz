@@ -8,6 +8,8 @@ pkg install nodejs -y
 pkg install npm -y
 pkg install tesseract -y
 npm i
+npm i yt-search
+npm i g-i-s
 npm i got
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
